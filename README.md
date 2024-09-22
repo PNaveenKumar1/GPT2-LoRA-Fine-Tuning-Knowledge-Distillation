@@ -24,7 +24,7 @@ The dataset used in this project is the CoLA (Corpus of Linguistic Acceptability
 ## Problem 0: Generation
 
 - **Task**: Ensure that all libraries are set up correctly and GPT2 can generate text sequences.
-- **Implementation**: Modified the provided code in `run.py` to load the GPT2 model and generate text. Successfully executed the code and generated sequences using the GPT2 model.
+- **Implementation**:  `run.py` to load the GPT2 model and generate text. execute the code and generate the sequences using the GPT2 model.
 
 ## Problem 1: Low Rank Adaptation (LoRA)
 
